@@ -42,5 +42,11 @@ footer{
     position: fixed;
     width: 100%;
     bottom: 0;
-
+}
+span{
+    font-size: 23px;
+}
+h3{
+    font-style: italic;
+    margin-bottom: 20px;
 }
