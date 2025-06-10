@@ -16,9 +16,13 @@ h1{
     background-color: rgb(208, 233, 233);
     height: 25px;
     align-items: center;
+    height: 30px;
 }
 .navigation-bar > ul > a{
     text-decoration:none ;
     margin-right: 20px;
     color: black;
+}
+.navigation-bar > ul > a:hover{
+    color: rgb(214, 9, 9);
 }
